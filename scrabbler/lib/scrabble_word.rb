@@ -1,5 +1,3 @@
-require "./lib/string"
-
 class ScrabbleWord
   attr_accessor :letters,:words
   def initialize(words)
